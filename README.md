@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Waled</h1>
 <h3 align="center">A passionate full-Stack developer from Cairo</h3>
 
-- 🔭 I’m currently working on **TBS Company**
+- 🔭 I’m currently working on **Line IT**
 
 - 🌱 I’m currently learning **Devops**
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly make content on Youtube [https://www.youtube.com/@ahmeedwaleed](https://www.youtube.com/@ahmeedwaleed)
 
-- 💬 Ask me about **anything related to .NET , MERN stack and related technologies**
+- 💬 Ask me about **anything related to PHP , MERN stack and related technologies**
 
 - 📫 How to reach me **ahmedalkpeer.v2@gmail.com**
 
