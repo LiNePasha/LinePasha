@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 Some of my projects are available at [https://ahmedline.netlify.app/](https://ahmedline.netlify.app/)
+- 👨‍💻 Some of my projects are available at [ahmedwaled.vercel.app](https://ahmedwaled.vercel.app/)
 
 - 📝 I regularly make content on Youtube [https://www.youtube.com/@ahmeedwaleed](https://www.youtube.com/@ahmeedwaleed)
 
