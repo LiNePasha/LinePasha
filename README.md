@@ -3,7 +3,7 @@
 
 - 🔭 My Side Business Full-Stack Web & Apps | Performance & SEO Developer **Line IT**
 
-- 🌱 You Can Read My Blog [My Blog](https://ahmedwaled.vercel.app/](https://ahmed.lineitsolutions.com/en-us/blog)
+- 🌱 You Can Read My Blog [My Blog](https://ahmed.lineitsolutions.com/en-us/blog)
 
 - 👨‍💻 Some of my projects are available at [Portfolio](https://ahmedwaled.vercel.app/)
 
