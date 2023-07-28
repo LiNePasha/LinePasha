@@ -3,7 +3,7 @@
 
 - 🔭 My Side Business Full-Stack Web & Apps | Performance & SEO Developer **Line IT**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 You Can Read My Blog [[My Blog](https://ahmedwaled.vercel.app/](https://ahmed.lineitsolutions.com/en-us/blog))
 
 - 👨‍💻 Some of my projects are available at [ahmedwaled.vercel.app](https://ahmedwaled.vercel.app/)
 
