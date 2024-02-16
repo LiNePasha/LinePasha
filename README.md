@@ -9,7 +9,7 @@
 
 - 📝 I regularly make content on Youtube [https://www.youtube.com/@ahmeedwaleed](https://www.youtube.com/@ahmeedwaleed)
 
-- 💬 Ask me about **anything related to PHP , MERN stack and related technologies**
+- 💬 Ask me about **anything related to Frontend stack and related technologies**
 
 - 📫 How to reach me **ahmedalkpeer.v2@gmail.com**
 
